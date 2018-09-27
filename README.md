@@ -1,3 +1,3 @@
 # BetterMotherFuckingWebsite
 
-Version en production BetterMotherFuckingWebsite > www.netskipper.fr/bettermotherfuckingwebsite.html
+Version en production BetterMotherFuckingWebsite > www.netskipper.fr/thp/bettermotherfuckingwebsite.html
